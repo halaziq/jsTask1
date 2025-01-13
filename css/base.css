@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin: auto;
+    width: calc(100% - 100px);
+}
+
+.row{
+    justify-content: space-between;
+    
+}

@@ -1,0 +1,13 @@
+.container .products-table{
+    width: 100%;
+    text-align: center;
+}
+
+.products-table .head{
+    background-color: bisque;
+}
+
+tr{
+    border: 1px;
+}
+
